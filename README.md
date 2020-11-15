@@ -48,5 +48,6 @@ Jacek Galowicz 在德国亚琛工业大学(Rheinisch-Westfälische Technische Ho
 
 ## 本书相关
 
-- github 翻译地址：https://github.com/xiaoweiChen/CPP-17-STL-cookbook
+- github 源翻译地址：https://github.com/xiaoweiChen/CPP-17-STL-cookbook
+- gitbook 在线阅读：https://zoupers.gitbook.io/cpp-17-stl-cookbook/
 - 本书源码：https://github.com/PacktPublishing/Cpp17-STL-Cookbook
